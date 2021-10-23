@@ -29,46 +29,61 @@ Para representar y resolver estos problemas en un entorno informático hay que h
 
 <h3>1. Cuadrado / A = i ^ 2</h3>
     <ul>
-        <li>Asignar medidas y definir: introduzco cms o metros para obtener metros cuadrados</li>
+        <li>Asignar medidas y definir. Ej: introduzco cms o metros para obtener el cuadrado</li>
         <li>Asignar X como lado perimetral y pedir longitud</li>
-        <li>Pide Y, asigna longitud de X (o pide X * 2)</li>
-        <li>Pide el cuadrado de la unión de las dos longitudes</li>
+        <li>Pedir Y, asigna longitud de X (o pide X * 2)</li>
+        <li>Pedir el cuadrado de la unión de las dos longitudes</li>
     </ul>
     
 <h3>2. Rectángulo</h3>
     <ul>
-        <li>Asignar medidas y definir: introduzco cms o metros para obtener metros cuadrados</li>
-        <li>Pide longitud de X</li>
-        <li>Pide longitud de Y</li>
-        <li>Calcula X * Y</li>
+        <li>Asignar medidas y definir. Ej: introduzco cms o metros para obtener el cuadrado</li>
+        <li>Pedir longitud de X</li>
+        <li>Pedir longitud de Y</li>
+        <li>Calcular X * Y</li>
     </ul><br>
 <strong>Nota: este método es igual para el cálculo del area de un romboide</strong>
 
 <h3>3. Rombo</h3>
     <ul>
-        <li>Asignar medidas y definir: introduzco cms o metros para obtener metros cuadrados</li>
-        <li>Pide longitud diagonal mayor</li>
-        <li>Pide longitud diagonal menor</li>
-        <li>Calcula X * Y</li>
-        <li>Divide resultado entre 2</li>
+        <li>Asignar medidas y definir. Ej: introduzco cms o metros para obtener el cuadrado</li>
+        <li>Pedir longitud diagonal mayor</li>
+        <li>Pedir longitud diagonal menor</li>
+        <li>Calcular X * Y</li>
+        <li>Dividir resultado entre 2</li>
     </ul>
 <h3>4. Trapecio</h3>
 <ul>
-    <li>Asignar medidas y definir: introduzco cms o metros para obtener metros cuadrados</li>
-    <li>Pide base (B), paralela (b) y altura (h)</li>
-    <li>Suma (B) + (b)</li>
+    <li>Asignar medidas y definir. Ej: introduzco cms o metros para obtener el cuadrado</li>
+    <li>Pedir base (B), paralela (b) y altura (h)</li>
+    <li>Sumar (B) + (b)</li>
     <li>Resultado (B) + (b) se divide entre 2</li>
-    <li>Multiplicamos el resultado anterior por el valor de (h)</li>
+    <li>Multiplicar el resultado anterior por el valor de (h)</li>
 </ul>
 <h3>5. Pentágono</h3>
 <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Asignar medidas y definir. Ej: introduzco cms o metros para obtener el cuadrado</li>
+    <li>Asignar medida del perímetro (P)</li>
+    <li>Asignar Medida de la apotema (a)</li>
+    <li>Pedir que el perímetro se multiplique por cada lado del polígono (P * 5)</li>
+    <li>Calcular (P * 5) * a</li>
+    <li>Pedir resultado y divídelo entre 2</li>
 </ul>
+<h3>6. Círculo</h3>
+<ul>
+    <li>Asignar medidas y definir. Ej: introduzco cms o metros para obtener el cuadrado</li>
+    <li>Asignar (r)</li>
+    <li>Pedir el cuadrado de (r)</li>
+    <li>Multiplicar (r^2) * π</li>
+</ul>
+<h3>7. Triángulo</h3>
+<ul>
+    <li>Asignar medidas y definir. Ej: introduzco cms o metros para obtener el cuadrado</li>
+    <li>Asigna base (b)</li>
+    <li>Asigna altura (h)</li>
+    <li>Calcular (b * h)</li>
+    <li>Pedir resultado y dividir entre 2</li>
+</ul>
+
+
 
