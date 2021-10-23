@@ -5,13 +5,13 @@ Estas son las fórmulas para calcular el área de los siguientes polígonos.<br>
 
 <ul>
   <li>Cuadrado:  <strong>A = i ^ 2</strong></li>
-  <li>Rectángulo:  <strong>A= b * h</strong></li>
+  <li>Rectángulo:  <strong>A = b * h</strong></li>
   <li>Rombo:  <strong>A = (D * D) / 2</strong></li>
-  <li>Romboide:  <strong>A= b * h</strong></li>
-  <li><strong></strong></li>
-  <li><strong></strong></li>
+  <li>Romboide:  <strong>A = b * h</strong></li>
+  <li>Trapecio:  <strong>A = (B * b) / 2 * h</strong></li>
+  <li>Pentágono: <strong>A = (P * a) / 2</strong></li>
   <li>Círculo:  <strong>A = Pi * r ^ 2</strong></li>
-  <li><strong></strong></li>
+  <li>Triángulo:  <strong>A = (b * h) / 2</strong></li>
 </ul><br>
 
 Para representar y resolver estos problemas en un entorno informático hay que hacer un análisis de <strong>factores</strong> y <strong>métodos</strong> que nos ayuden a visualizar todos los pasos que forman el proceso previo a hacer código. Entendiendo estos pasos ayudarán a resolver el problema mejor, a simplificarlo y a hacerlo más legible.<br>
@@ -27,7 +27,7 @@ Para representar y resolver estos problemas en un entorno informático hay que h
 
 <h2>Métodos</h2>
 
-<h3>1. Cuadrado / A = i ^ 2</h3>
+<h3>1. Cuadrado</h3>
     <ul>
         <li>Asignar medidas y definir. Ej: introduzco cms o metros para obtener el cuadrado</li>
         <li>Asignar X como lado perimetral y pedir longitud</li>
