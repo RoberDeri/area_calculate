@@ -10,7 +10,7 @@ Estas son las fórmulas para calcular el área de los siguientes polígonos.<br>
   <li>Romboide:  <strong>A = b * h</strong></li>
   <li>Trapecio:  <strong>A = (B * b) / 2 * h</strong></li>
   <li>Pentágono: <strong>A = (P * a) / 2</strong></li>
-  <li>Círculo:  <strong>A = Pi * r ^ 2</strong></li>
+  <li>Círculo:  <strong>A = π * r ^ 2</strong></li>
   <li>Triángulo:  <strong>A = (b * h) / 2</strong></li>
 </ul><br>
 
