@@ -16,7 +16,7 @@ Estas son las fórmulas para calcular el área de los siguientes polígonos.<br>
 
 Para representar y resolver estos problemas en un entorno informático hay que hacer un análisis de <strong>factores</strong> y <strong>métodos</strong> que nos ayuden a visualizar todos los pasos que forman el proceso previo a hacer código. Entendiendo estos pasos ayudarán a resolver el problema mejor, a simplificarlo y a hacerlo más legible.<br>
 
-<h2>Fáctores en común para todas las figuras</h2>
+<h2>1.1. Fáctores en común para todas las figuras</h2>
 
 <ol>
   <li><strong>Ancho</strong></li>
@@ -25,7 +25,7 @@ Para representar y resolver estos problemas en un entorno informático hay que h
   <li><strong>Longitud</strong></li>
 </ol><br>
 
-<h2>Métodos</h2>
+<h2>1.2. Métodos</h2>
 
 <h3>1. Cuadrado</h3>
     <ul>
